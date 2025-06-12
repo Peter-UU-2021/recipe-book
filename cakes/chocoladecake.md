@@ -6,3 +6,4 @@ chocolate
 flower
 sugar
 butter
+lemon
